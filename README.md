@@ -65,6 +65,7 @@ I'm constantly exploring how mobile and blockchain technologies can work togethe
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=otis-tran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 ---
 
 ### 🚀 Featured Projects
