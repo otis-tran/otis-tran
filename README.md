@@ -21,7 +21,9 @@ I'm constantly exploring how mobile and blockchain technologies can work togethe
 💡 *"The journey of development is a continuous loop of learning, failing, and refining."*
 
 🔭 **Currently Working On:** Android Native Development
+
 🌱 **Currently Learning:** Blockchain Development & Smart Contracts
+
 🎯 **Career Goal:** Building decentralized applications that solve real-world problems
 
 ---
@@ -63,11 +65,6 @@ I'm constantly exploring how mobile and blockchain technologies can work togethe
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=otis-tran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otis-tran&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ### 🚀 Featured Projects
